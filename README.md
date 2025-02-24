@@ -36,3 +36,5 @@ create exception.py file within the src folder
 ## CODE
 Write a custom Exception **your choice**
 Write a custom Logger
+Write the EDA.ipynb
+Write the Model_Selection.ipynb
