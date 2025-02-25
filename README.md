@@ -39,3 +39,7 @@ Write a custom Logger
 Write the EDA.ipynb
 Write the Model_Selection.ipynb
 files updated
+
+## DATA_INGESTION.py
+Read the Data from a specific Data source
+Run the code from the root folder using python -m src.components.data_ingestion
