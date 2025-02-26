@@ -42,6 +42,13 @@ class ModelTrainer:
                 "K-Neighbors Regression": KNeighborsRegressor(),
                 "AdaBoost Regression": AdaBoostRegressor()
             }
+           ## params={
+            ##    "Random Forest":{
+            ##        'n_estimators':[8,16,32,64,128,256]},
+            ##    "Decision Tree":{
+            ##        'criterion
+            ##    }
+            ##}
 
             model_report:dict=evaluate_models(
                 X_train=X_train,y_train=y_train,X_test=X_test,y_test=y_test,models=models
