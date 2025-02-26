@@ -43,3 +43,9 @@ files updated
 ## DATA_INGESTION.py
 Read the Data from a specific Data source
 Run the code from the root folder using python -m src.components.data_ingestion
+
+## DATA_TRANSFORMATION.py
+Transform the Dataset at this point
+
+## MODEL_TRAINING.py
+Train the dataset with different models
